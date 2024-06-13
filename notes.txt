@@ -1,0 +1,3 @@
+git (is a version control system designed to handle small to large projects simultaniously)
+github (web bsade platform that uses git version control)
+the command git init initialises pushing files to git
